@@ -16,3 +16,5 @@ Este projeto é um case proposto pela Brainn Co para o seu processo seletivo de 
 
 ### Link do Surge
 https://abiding-salt.surge.sh/
+![caseBrainn](https://user-images.githubusercontent.com/90624608/169656502-4af216d3-7b3a-42ba-b476-27c39945337b.png)
+![BrainnMobile](https://user-images.githubusercontent.com/90624608/169656505-9257e80e-eadf-4b23-9d7a-d3cec81bc327.jpeg)
